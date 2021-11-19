@@ -1,0 +1,3 @@
+Python interpreter is basically just a little program that we can code python in.
+All we have to do is go over to your terminal or your command prompt and type in
+python3
